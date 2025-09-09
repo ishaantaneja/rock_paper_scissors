@@ -1,6 +1,6 @@
 Rock Paper Scissor Game
 
-Find the logic return below
+Find the logic written below
 
 let options = ["rock", "paper", "scissor"];
 let stat = document.getElementById("winner");
@@ -46,3 +46,4 @@ computerReturnedOption = computerOption();
 
 });
 });
+
